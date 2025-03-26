@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋  [![](https://visitcount.itsvg.in/api?id=PauvelRoldan&icon=0&color=1)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on **ProwerBI Projects**
 - 🌱 I’m currently learning **Statistics**
