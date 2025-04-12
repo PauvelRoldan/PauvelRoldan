@@ -9,6 +9,9 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: *Just started as a data analyst*
 
+## About Me
+I’m a data analyst with a passion for turning raw data into clear, actionable insights. With strong expertise in Excel (including pivot tables, advanced formulas, and dynamic charts), SQL, Power BI, and Python, I bring a well-rounded analytical toolkit to every project I take on.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/pauvel.kouati.3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pauvel-roldan-02764018a/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@mr_kouati) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pauvelroldan1@gmail.com) 
